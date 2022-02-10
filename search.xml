@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Windows下生成SSHKey</title>
+    <url>/2022/01/29/Windows%E4%B8%8B%E7%94%9F%E6%88%90SSHKey/</url>
+    <content><![CDATA[<p>我们在使用github或者gitee等代码托管平台的时候，经常需要给自己的仓库配置一个公钥。由于本人主要用windows系统做开发，在这里简单分享一下如何在一分钟之内配置一个sshkey。<br>windows+R组合键，输入cmd,打开命令行控制面板  </p>
+<figure class="highlight elixir"><table><tr><td class="code"><pre><span class="line"><span class="variable">$ </span>ssh-keygen -t rsa -C <span class="string">&quot;youremail@example.com&quot;</span></span><br></pre></td></tr></table></figure>
+<p>然后按下回车，根据命令提示输了密码，回车，再次输入密码确认，就可以看到sshey:<br><img src="/../images/2022-01-29-16-36-36.png" alt="生成的sshkey"><br>当然也可以不需要密码，连续回车，也可以生成。<br>密钥类型可以用 -t 选项指定。如果没有指定则默认生成用于SSH-2的RSA密钥。这里使用的是rsa（rsa是一种速度极快的对称加密算法）。同时在密钥中有一个注释字段，用-C来指定所指定的注释，可以方便用户标识这个密钥，指出密钥的用途或其他有用的信息。所以在这里输入自己的邮箱或者其他都行,当然，如果不想要这些可以直接输入：  </p>
+<figure class="highlight crystal"><table><tr><td class="code"><pre><span class="line"><span class="variable">$ </span>ssh-keygen</span><br></pre></td></tr></table></figure>
+<p>回车输入密码，或者空密码也可以。<br>以上就是在windows系统下快速生成sshkey的方法，你学废了吗？</p>
+]]></content>
+      <tags>
+        <tag>其他</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>我的第一篇Blog</title>
     <url>/2022/02/10/hello-world/</url>
     <content><![CDATA[<p>欢迎来到我的博客！本人程序小猿猴一枚，自2017年毕业之后一直在游戏领域耕耘，使用过unity，cocoscreator,layaAir等游戏引擎，在这个过程中遇到许许多多的坑，当然也收获了很多。以后我会在我的博客上分享一些游戏开发过程中的tips或者经验，如有不足之处请多多包涵，如果我的文章对您有帮助希望您给一个赞。您的支持就是我最大的动力。</p>
@@ -22,19 +35,6 @@
 <li>各游戏引擎项目发布（安卓，ios,各个小游戏平台）</li>
 <li>暂时想到的就这么多</li>
 </ul>
-]]></content>
-      <tags>
-        <tag>其他</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Windows下生成SSHKey</title>
-    <url>/2022/01/29/Windows%E4%B8%8B%E7%94%9F%E6%88%90SSHKey/</url>
-    <content><![CDATA[<p>我们在使用github或者gitee等代码托管平台的时候，经常需要给自己的仓库配置一个公钥。由于本人主要用windows系统做开发，在这里简单分享一下如何在一分钟之内配置一个sshkey。<br>windows+R组合键，输入cmd,打开命令行控制面板  </p>
-<figure class="highlight elixir"><table><tr><td class="code"><pre><span class="line"><span class="variable">$ </span>ssh-keygen -t rsa -C <span class="string">&quot;youremail@example.com&quot;</span></span><br></pre></td></tr></table></figure>
-<p>然后按下回车，根据命令提示输了密码，回车，再次输入密码确认，就可以看到sshey:<br><img src="/../images/2022-01-29-16-36-36.png" alt="生成的sshkey"><br>当然也可以不需要密码，连续回车，也可以生成。<br>密钥类型可以用 -t 选项指定。如果没有指定则默认生成用于SSH-2的RSA密钥。这里使用的是rsa（rsa是一种速度极快的对称加密算法）。同时在密钥中有一个注释字段，用-C来指定所指定的注释，可以方便用户标识这个密钥，指出密钥的用途或其他有用的信息。所以在这里输入自己的邮箱或者其他都行,当然，如果不想要这些可以直接输入：  </p>
-<figure class="highlight crystal"><table><tr><td class="code"><pre><span class="line"><span class="variable">$ </span>ssh-keygen</span><br></pre></td></tr></table></figure>
-<p>回车输入密码，或者空密码也可以。<br>以上就是在windows系统下快速生成sshkey的方法，你学废了吗？</p>
 ]]></content>
       <tags>
         <tag>其他</tag>
