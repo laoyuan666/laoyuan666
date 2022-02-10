@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://laoyuan666.github.io/tags/index.html</loc>
+    <loc>https://laoyuan666.github.io/about/index.html</loc>
     
     <lastmod>2022-02-10</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://laoyuan666.github.io/about/index.html</loc>
+    <loc>https://laoyuan666.github.io/2022/02/10/hello-world/</loc>
+    
+    <lastmod>2022-02-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://laoyuan666.github.io/tags/index.html</loc>
     
     <lastmod>2022-02-10</lastmod>
     
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://laoyuan666.github.io/archives/index.html</loc>
-    
-    <lastmod>2022-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://laoyuan666.github.io/2022/02/10/hello-world/</loc>
     
     <lastmod>2022-02-10</lastmod>
     
@@ -89,6 +89,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://laoyuan666.github.io/tags/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2022-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://laoyuan666.github.io/categories/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2022-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
