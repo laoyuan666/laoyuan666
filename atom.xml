@@ -6,7 +6,7 @@
   <link href="https://laoyuan666.github.io/atom.xml" rel="self"/>
   
   <link href="https://laoyuan666.github.io/"/>
-  <updated>2022-02-09T09:30:57.271Z</updated>
+  <updated>2022-02-10T16:53:53.235Z</updated>
   <id>https://laoyuan666.github.io/</id>
   
   <author>
@@ -17,22 +17,47 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://laoyuan666.github.io/2022/02/09/hello-world/"/>
-    <id>https://laoyuan666.github.io/2022/02/09/hello-world/</id>
-    <published>2022-02-09T09:30:57.271Z</published>
-    <updated>2022-02-09T09:30:57.271Z</updated>
+    <title>我的第一篇Blog</title>
+    <link href="https://laoyuan666.github.io/2022/02/10/hello-world/"/>
+    <id>https://laoyuan666.github.io/2022/02/10/hello-world/</id>
+    <published>2022-02-10T14:32:34.887Z</published>
+    <updated>2022-02-10T16:53:53.235Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到我的博客！本人程序小猿猴一枚，自2017年毕业之后一直在游戏领域耕耘，使用过unity，cocoscreator,layaAir等游戏引擎，在这个过程中遇到许许多多的坑，当然也收获了很多。以后我会在我的博客上分享一些游戏开发过程中的tips或者经验，如有不足之处请多多包涵，如果我的文章对您有帮助希望您给一个赞。您的支持就是我最大的动力。</p><h2 id="关于分享内容"><a href="#关于分享内容" class="headerlink" title="关于分享内容"></a>关于分享内容</h2><ul><li>unity开发<ul><li>unity小技巧</li><li>unityAR开发</li><li>unityVR开发</li><li>unity图形渲染特效</li><li>unity开发框架总结</li></ul></li><li>cocosreator和layaAir开发<ul><li>cocoscreator从入门到入坟</li><li>layaAir从入门到吐血</li><li>小游戏开发框架</li></ul></li><li>各游戏引擎项目发布（安卓，ios,各个小游戏平台）</li><li>暂时想到的就这么多</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;欢迎来到我的博客！本人程序小猿猴一枚，自2017年毕业之后一直在游戏领域耕耘，使用过unity，cocoscreator,layaAir等游戏引擎，在这个过程中遇到许许多多的坑，当然也收获了很多。以后我会在我的博客上分享一些游戏开发过程中的tips或者经验，如有不足之处请多</summary>
       
     
     
     
+    
+    <category term="其他" scheme="https://laoyuan666.github.io/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows下生成SSHKey</title>
+    <link href="https://laoyuan666.github.io/2022/01/29/Windows%E4%B8%8B%E7%94%9F%E6%88%90SSHKey/"/>
+    <id>https://laoyuan666.github.io/2022/01/29/Windows%E4%B8%8B%E7%94%9F%E6%88%90SSHKey/</id>
+    <published>2022-01-29T08:21:35.000Z</published>
+    <updated>2022-02-10T16:53:30.986Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们在使用github或者gitee等代码托管平台的时候，经常需要给自己的仓库配置一个公钥。由于本人主要用windows系统做开发，在这里简单分享一下如何在一分钟之内配置一个sshkey。<br>windows+R组合键，输入cmd,打开命令行控制面板  </p><figure class="highlight elixir"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$ </span>ssh-keygen -t rsa -C <span class="string">&quot;youremail@example.com&quot;</span></span><br></pre></td></tr></table></figure><p>然后按下回车，根据命令提示输了密码，回车，再次输入密码确认，就可以看到sshey:<br><img src="/../images/2022-01-29-16-36-36.png" alt="生成的sshkey"><br>当然也可以不需要密码，连续回车，也可以生成。<br>密钥类型可以用 -t 选项指定。如果没有指定则默认生成用于SSH-2的RSA密钥。这里使用的是rsa（rsa是一种速度极快的对称加密算法）。同时在密钥中有一个注释字段，用-C来指定所指定的注释，可以方便用户标识这个密钥，指出密钥的用途或其他有用的信息。所以在这里输入自己的邮箱或者其他都行,当然，如果不想要这些可以直接输入：  </p><figure class="highlight crystal"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$ </span>ssh-keygen</span><br></pre></td></tr></table></figure><p>回车输入密码，或者空密码也可以。<br>以上就是在windows系统下快速生成sshkey的方法，你学废了吗？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我们在使用github或者gitee等代码托管平台的时候，经常需要给自己的仓库配置一个公钥。由于本人主要用windows系统做开发，在这里简单分享一下如何在一分钟之内配置一个sshkey。&lt;br&gt;windows+R组合键，输入cmd,打开命令行控制面板  &lt;/p&gt;
+&lt;fig</summary>
+      
+    
+    
+    
+    
+    <category term="其他" scheme="https://laoyuan666.github.io/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
